@@ -146,15 +146,15 @@ spain_retail_parquet/
 
 ### Parquet Folder Structure
 
-![Parquet Structure](images/parquet_folder_structure.png)
+![Parquet Structure](images/parquet_output_structure.png)
 
 ### Dataset Schema
 
-![Data Schema](images/data_schema.png)
+![Data Schema](images/cleaned_data_schema.png)
 
 ### Parquet Data Preview
 
-![Parquet Preview](images/parquet_preview.png)
+![Parquet Preview](images/fact_transactions_preview.png)
 
 ---
 
@@ -313,15 +313,15 @@ El pipeline exporta datasets parquet incluyendo:
 
 ### Estructura de Carpetas Parquet
 
-![Parquet Structure](images/parquet_folder_structure.png)
+![Parquet Structure](images/parquet_output_structure.png)
 
 ### Schema del Dataset
 
-![Data Schema](images/data_schema.png)
+![Data Schema](images/cleaned_data_schema.png)
 
 ### Vista Previa de Datos Parquet
 
-![Parquet Preview](images/parquet_preview.png)
+![Parquet Preview](images/fact_transactions_preview.png)
 
 ---
 
